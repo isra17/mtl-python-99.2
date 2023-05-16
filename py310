@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ~/.pyenv/versions/py310-pymtl/bin/python "$@"
